@@ -7,7 +7,7 @@ import Useffecthook from "./Useeffecthook";
 
 ReactDOM.render(
   <BrowserRouter>
-<Useffecthook></Useffecthook>
+    <Useffecthook></Useffecthook>
   </BrowserRouter>,
   document.getElementById("root")
 );
